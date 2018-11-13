@@ -11,4 +11,4 @@ Information graphics reveal the hidden, explain the complex and illuminate the o
 
 ### Course Structure
 
-The course comprised of three major assignments - replication of an already established data visualization, redesigning that into something better, and finally porting the same data and visaulizing it through a different medium.
+The course comprised of three major assignments - replication of an already established data visualization, redesigning that into something better, and finally porting the same data and visualizing it through a different medium.

@@ -535,6 +535,9 @@ a {
     }
 } 
 @media all and (max-width: 768px) {
+    .prof {
+        display: none!important;
+    }
     .container {
         width: 100%;
     }

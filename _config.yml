@@ -17,7 +17,7 @@ title: DE 303
 email: hi@naveen.io
 description: >- # this means to ignore newlines until "baseurl:"
   Information graphics reveal the hidden, explain the complex and illuminate the obscure. 
-baseurl: "https://naveen.io/DE-303/" # the subpath of your site, e.g. /blog
+baseurl: "https://naveenshaji.github.io/DE-303/" # the subpath of your site, e.g. /blog
 url: "https://naveenshaji.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  naveenshaji
 permalink: /:title
